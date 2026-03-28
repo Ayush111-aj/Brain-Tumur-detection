@@ -1,1 +1,1 @@
-# Brain-Tumur-detection
+# Brain-Tumour-detection
